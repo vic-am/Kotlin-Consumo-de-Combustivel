@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gasto de viagem</string>
+    <string name="resultado_exception">Desculpe, não foi possível realizar o cálculo</string>
+</resources>
